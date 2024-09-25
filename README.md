@@ -2,4 +2,4 @@
 
 ### WEBSITE
 
-([Website](https://shiva250503ss.github.io/benchmark_studio_website/))
+([BenchMarkStudio](https://shiva250503ss.github.io/benchmark_studio_website/))
